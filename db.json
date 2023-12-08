@@ -135,7 +135,7 @@
       "id": 5,
       "name": "Plain burger",
       "price": 10,
-      "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/simple.jpeg",
+      "image": "https://raw.githubusercontent.com/pnxu/burger-queen-api-mock/main/resources/images/simple.jpeg",
       "type": "Lunch",
       "dateEntry": "2022-03-05 15:14:10"
     },
@@ -143,7 +143,7 @@
       "id": 6,
       "name": "Double burger",
       "price": 15,
-      "image": "https://raw.githubusercontent.com/vanesna/burger-queen-api-mock/main/resources/images/doble.jpeg",
+      "image": "https://raw.githubusercontent.com/pnxu/burger-queen-api-mock/main/resources/images/doble.jpeg",
       "type": "Lunch",
       "dateEntry": "2022-03-05 15:14:10"
     },
