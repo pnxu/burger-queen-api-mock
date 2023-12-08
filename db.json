@@ -9,7 +9,7 @@
           "qty": 4,
           "product": {
             "id": 1,
-            "name": "Cheese and ham sandwich",
+            "name": "Sandwich",
             "price": 10,
             "image": "https://raw.githubusercontent.com/pnxu/burger-queen-api-mock/main/resources/images/sandwich.png",
             "type": "Breakfast",
